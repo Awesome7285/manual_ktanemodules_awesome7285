@@ -1,4 +1,4 @@
-# Keep Talking and Nobody Explodes Modded Archipelago Manual Setup Guide
+# Keep Talking and Nobody Explodes Modded Archipelago Manual
 Built upon Manual Stable [v20250813](https://github.com/ManualForArchipelago/Manual/releases/tag/manual_stable_20250813)
 
 ## Prerequisites
