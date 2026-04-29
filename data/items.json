@@ -218,6 +218,14 @@
             ]
         },
         {
+            "name": "4D Tunnels",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "501",
             "count": 0,
             "progression": true,
@@ -267,6 +275,14 @@
         },
         {
             "name": "9-Ball",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": ":3",
             "count": 0,
             "progression": true,
             "category": [
@@ -395,6 +411,14 @@
         },
         {
             "name": "Adventure Game",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Adventure Plan",
             "count": 0,
             "progression": true,
             "category": [
@@ -626,6 +650,14 @@
             ]
         },
         {
+            "name": "AMM-041-292",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Amnesia",
             "count": 0,
             "progression": true,
@@ -699,6 +731,14 @@
         },
         {
             "name": "Annoying Puzzle",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Anomalous Terminal",
             "count": 0,
             "progression": true,
             "category": [
@@ -1250,6 +1290,14 @@
             ]
         },
         {
+            "name": "Beatblock",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Bell of Tío",
             "count": 0,
             "progression": true,
@@ -1338,6 +1386,14 @@
             ]
         },
         {
+            "name": "Binary Juggle",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Binary LEDs",
             "count": 0,
             "progression": true,
@@ -1371,6 +1427,14 @@
         },
         {
             "name": "Binary Puzzle",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Binary Search",
             "count": 0,
             "progression": true,
             "category": [
@@ -1754,6 +1818,14 @@
             ]
         },
         {
+            "name": "Bob's Parable",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Boggle",
             "count": 0,
             "progression": true,
@@ -1906,6 +1978,14 @@
             ]
         },
         {
+            "name": "BorisP",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Bottom Gear",
             "count": 0,
             "progression": true,
@@ -1939,6 +2019,14 @@
         },
         {
             "name": "Boxing",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Brad Memory",
             "count": 0,
             "progression": true,
             "category": [
@@ -2106,6 +2194,14 @@
             ]
         },
         {
+            "name": "Bulbmaps",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Bumpers",
             "count": 0,
             "progression": true,
@@ -2242,7 +2338,7 @@
             ]
         },
         {
-            "name": "Caesar Cipher",
+            "name": "Caesar Cycle PL",
             "count": 0,
             "progression": true,
             "category": [
@@ -2250,7 +2346,7 @@
             ]
         },
         {
-            "name": "Caesar Cycle PL",
+            "name": "Caesar Cipher",
             "count": 0,
             "progression": true,
             "category": [
@@ -2339,6 +2435,14 @@
         },
         {
             "name": "CA-RPS",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Carries",
             "count": 0,
             "progression": true,
             "category": [
@@ -2635,6 +2739,14 @@
         },
         {
             "name": "Cipher Machine",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Circuit Charging",
             "count": 0,
             "progression": true,
             "category": [
@@ -3010,7 +3122,31 @@
             ]
         },
         {
+            "name": "Color Sorting",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Color-Symbolic Interpretation Module",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Colour Flash ES",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Colour Flash PL",
             "count": 0,
             "progression": true,
             "category": [
@@ -3051,22 +3187,6 @@
         },
         {
             "name": "Colour Flash Translated",
-            "count": 0,
-            "progression": true,
-            "category": [
-                "Module"
-            ]
-        },
-        {
-            "name": "Colour Flash ES",
-            "count": 0,
-            "progression": true,
-            "category": [
-                "Module"
-            ]
-        },
-        {
-            "name": "Colour Flash PL",
             "count": 0,
             "progression": true,
             "category": [
@@ -3138,6 +3258,14 @@
             ]
         },
         {
+            "name": "Complex-Resistance",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Complicated Buttons",
             "count": 0,
             "progression": true,
@@ -3171,6 +3299,14 @@
         },
         {
             "name": "Conditional Maze",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Confused Lying Buttons",
             "count": 0,
             "progression": true,
             "category": [
@@ -3362,6 +3498,22 @@
             ]
         },
         {
+            "name": "Corrupted Numbers",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Corruption",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Cosmic",
             "count": 0,
             "progression": true,
@@ -3394,7 +3546,23 @@
             ]
         },
         {
+            "name": "Cranky's Sections",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Crazy?",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Crazy Food",
             "count": 0,
             "progression": true,
             "category": [
@@ -3538,6 +3706,14 @@
             ]
         },
         {
+            "name": "Cruel Dividable By 2",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "The Cruel Duck",
             "count": 0,
             "progression": true,
@@ -3555,6 +3731,14 @@
         },
         {
             "name": "Cruel Garfield Kart",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Cruel Karnaugh Map",
             "count": 0,
             "progression": true,
             "category": [
@@ -3587,6 +3771,14 @@
         },
         {
             "name": "Cruel Modulo",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Cruel Murder",
             "count": 0,
             "progression": true,
             "category": [
@@ -3866,6 +4058,14 @@
             ]
         },
         {
+            "name": "The Colored Peg",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "D",
             "count": 0,
             "progression": true,
@@ -4027,6 +4227,14 @@
         },
         {
             "name": "Decomposed RGB Arithmetic",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "The Defiant Button",
             "count": 0,
             "progression": true,
             "category": [
@@ -4514,6 +4722,14 @@
             ]
         },
         {
+            "name": "Doubted Lying Buttons",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Dragon Energy",
             "count": 0,
             "progression": true,
@@ -4730,6 +4946,14 @@
             ]
         },
         {
+            "name": "Elevators",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Emoji",
             "count": 0,
             "progression": true,
@@ -4923,6 +5147,14 @@
         },
         {
             "name": "Equations X",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Eredan Duels",
             "count": 0,
             "progression": true,
             "category": [
@@ -5226,6 +5458,14 @@
             ]
         },
         {
+            "name": "Faulty Colored Cube",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Faulty Colour Flash",
             "count": 0,
             "progression": true,
@@ -5251,14 +5491,6 @@
         },
         {
             "name": "Faulty Sink",
-            "count": 0,
-            "progression": true,
-            "category": [
-                "Module"
-            ]
-        },
-        {
-            "name": "Fax Matrix",
             "count": 0,
             "progression": true,
             "category": [
@@ -5331,6 +5563,14 @@
         },
         {
             "name": "Find The Invisible Cow",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Finite Automata",
             "count": 0,
             "progression": true,
             "category": [
@@ -5786,6 +6026,14 @@
             ]
         },
         {
+            "name": "Forgor Me Not",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Forteroudo",
             "count": 0,
             "progression": true,
@@ -6074,6 +6322,14 @@
             ]
         },
         {
+            "name": "gay gay homosexual gay",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Gem Division",
             "count": 0,
             "progression": true,
@@ -6170,6 +6426,14 @@
             ]
         },
         {
+            "name": "Giants Cipher",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "The Giant's Drink",
             "count": 0,
             "progression": true,
@@ -6251,6 +6515,14 @@
         },
         {
             "name": "Goofy's Game",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Got Legs?",
             "count": 0,
             "progression": true,
             "category": [
@@ -6802,6 +7074,14 @@
             ]
         },
         {
+            "name": "The Holy Code",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Homophones",
             "count": 0,
             "progression": true,
@@ -6859,6 +7139,14 @@
         },
         {
             "name": "Hyperactive Numbers",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Hyperage",
             "count": 0,
             "progression": true,
             "category": [
@@ -7170,7 +7458,23 @@
             ]
         },
         {
+            "name": "Insomnious Automaton",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Instant Insanity",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "The Instar",
             "count": 0,
             "progression": true,
             "category": [
@@ -7242,6 +7546,14 @@
             ]
         },
         {
+            "name": "Investigation",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Invisymbol",
             "count": 0,
             "progression": true,
@@ -7283,14 +7595,6 @@
         },
         {
             "name": "Item Predicament",
-            "count": 0,
-            "progression": true,
-            "category": [
-                "Module"
-            ]
-        },
-        {
-            "name": "Изложение",
             "count": 0,
             "progression": true,
             "category": [
@@ -7410,6 +7714,14 @@
             ]
         },
         {
+            "name": "Jumble",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Jumble Cycle",
             "count": 0,
             "progression": true,
@@ -7434,7 +7746,23 @@
             ]
         },
         {
+            "name": "Just a Wire",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Just Numbers",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Juxtacolored Cube",
             "count": 0,
             "progression": true,
             "category": [
@@ -7794,6 +8122,14 @@
             ]
         },
         {
+            "name": "Laser Luring",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Lasers",
             "count": 0,
             "progression": true,
@@ -7874,6 +8210,14 @@
             ]
         },
         {
+            "name": "LEGO Removal",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "LEGOs",
             "count": 0,
             "progression": true,
@@ -7891,6 +8235,14 @@
         },
         {
             "name": "Lengthy Lockdown",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Lenticular Maze",
             "count": 0,
             "progression": true,
             "category": [
@@ -8011,6 +8363,14 @@
         },
         {
             "name": "Limbo Keys",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Lime Arrows",
             "count": 0,
             "progression": true,
             "category": [
@@ -8666,6 +9026,14 @@
             ]
         },
         {
+            "name": "Matchup Chart",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Math 'em",
             "count": 0,
             "progression": true,
@@ -8795,6 +9163,14 @@
         },
         {
             "name": "Mazeswapper",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Mechanical Switches",
             "count": 0,
             "progression": true,
             "category": [
@@ -9402,6 +9778,14 @@
             ]
         },
         {
+            "name": "Moodstruck Mixing Unit",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "The Moon",
             "count": 0,
             "progression": true,
@@ -9443,6 +9827,14 @@
         },
         {
             "name": "Morse Complication",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Morsel Code",
             "count": 0,
             "progression": true,
             "category": [
@@ -9730,7 +10122,23 @@
             ]
         },
         {
+            "name": "Needy Survival",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Negation",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Negative-Resistance",
             "count": 0,
             "progression": true,
             "category": [
@@ -9779,6 +10187,14 @@
         },
         {
             "name": "Neutrinos",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Never Fade Away",
             "count": 0,
             "progression": true,
             "category": [
@@ -10315,6 +10731,14 @@
         },
         {
             "name": "Not Timer",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "nottuB ehT",
             "count": 0,
             "progression": true,
             "category": [
@@ -11122,6 +11546,14 @@
             ]
         },
         {
+            "name": "Perspecticolored Cube",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Perspecticolored Squares",
             "count": 0,
             "progression": true,
@@ -11147,6 +11579,22 @@
         },
         {
             "name": "Perspective Stacking",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Petroglyph",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Phasmophobia",
             "count": 0,
             "progression": true,
             "category": [
@@ -11514,14 +11962,6 @@
             ]
         },
         {
-            "name": "Poisoned Goblets",
-            "count": 0,
-            "progression": true,
-            "category": [
-                "Module"
-            ]
-        },
-        {
             "name": "Pokémon Sprite Cipher",
             "count": 0,
             "progression": true,
@@ -11619,6 +12059,14 @@
         },
         {
             "name": "Port Check",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Positive-Resistance",
             "count": 0,
             "progression": true,
             "category": [
@@ -11962,6 +12410,14 @@
             ]
         },
         {
+            "name": "Qubits",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Queen's War",
             "count": 0,
             "progression": true,
@@ -12059,6 +12515,14 @@
         },
         {
             "name": "Qwirkle",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Quadrophobic Maze",
             "count": 0,
             "progression": true,
             "category": [
@@ -12370,7 +12834,23 @@
             ]
         },
         {
+            "name": "Regular Show",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Regular Sudoku",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Relic Song",
             "count": 0,
             "progression": true,
             "category": [
@@ -12435,6 +12915,14 @@
         },
         {
             "name": "REPSEQ",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "The Resilient Button",
             "count": 0,
             "progression": true,
             "category": [
@@ -12610,6 +13098,14 @@
             ]
         },
         {
+            "name": "Rigging the Odds",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Risky Wires",
             "count": 0,
             "progression": true,
@@ -12722,6 +13218,14 @@
             ]
         },
         {
+            "name": "Routing",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Royal Piano Keys",
             "count": 0,
             "progression": true,
@@ -12731,6 +13235,14 @@
         },
         {
             "name": "RPS Judging",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "RPS Tournament",
             "count": 0,
             "progression": true,
             "category": [
@@ -12874,6 +13386,14 @@
             ]
         },
         {
+            "name": "Salted Cashews",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Salts",
             "count": 0,
             "progression": true,
@@ -12979,6 +13499,14 @@
         },
         {
             "name": "Schulte Table",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Scorching Alchemist",
             "count": 0,
             "progression": true,
             "category": [
@@ -13210,6 +13738,14 @@
             ]
         },
         {
+            "name": "Seven to Nine",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Seven Wires",
             "count": 0,
             "progression": true,
@@ -13242,6 +13778,14 @@
             ]
         },
         {
+            "name": "Shapes",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Shapes And Bombs",
             "count": 0,
             "progression": true,
@@ -13267,6 +13811,14 @@
         },
         {
             "name": "Shashki",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Shattered",
             "count": 0,
             "progression": true,
             "category": [
@@ -13307,6 +13859,14 @@
         },
         {
             "name": "Shipping Triangles",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Ship Review",
             "count": 0,
             "progression": true,
             "category": [
@@ -13379,6 +13939,14 @@
         },
         {
             "name": "Siffron",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Signal Driveway",
             "count": 0,
             "progression": true,
             "category": [
@@ -13618,6 +14186,14 @@
             ]
         },
         {
+            "name": "Simon s'Morse",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Simon Smothers",
             "count": 0,
             "progression": true,
@@ -13659,6 +14235,14 @@
         },
         {
             "name": "Simon's Satire",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Simon's Scytale",
             "count": 0,
             "progression": true,
             "category": [
@@ -14066,14 +14650,6 @@
             ]
         },
         {
-            "name": "Solve Shift",
-            "count": 0,
-            "progression": true,
-            "category": [
-                "Module"
-            ]
-        },
-        {
             "name": "Solve/Strike",
             "count": 0,
             "progression": true,
@@ -14179,6 +14755,14 @@
         },
         {
             "name": "Spangled Stars",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Spatiolocation",
             "count": 0,
             "progression": true,
             "category": [
@@ -14570,6 +15154,14 @@
             ]
         },
         {
+            "name": "Stock Squares",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Stoichiometry",
             "count": 0,
             "progression": true,
@@ -14675,6 +15267,30 @@
         },
         {
             "name": "Subways",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Sudoku",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Sudoku Cipher",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Sudokulocation",
             "count": 0,
             "progression": true,
             "category": [
@@ -14795,6 +15411,14 @@
         },
         {
             "name": "The Swan",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Swift Eye Test",
             "count": 0,
             "progression": true,
             "category": [
@@ -14995,6 +15619,14 @@
         },
         {
             "name": "Syzygy",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Snowman",
             "count": 0,
             "progression": true,
             "category": [
@@ -15234,6 +15866,14 @@
             ]
         },
         {
+            "name": "Terminology",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Termite",
             "count": 0,
             "progression": true,
@@ -15315,6 +15955,14 @@
         },
         {
             "name": "Text Field",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Thermoregulation",
             "count": 0,
             "progression": true,
             "category": [
@@ -15562,6 +16210,14 @@
             ]
         },
         {
+            "name": "Touch-Tone Telephone",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Touch Transmission",
             "count": 0,
             "progression": true,
@@ -15579,6 +16235,14 @@
         },
         {
             "name": "Towers",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Toxic Crystals",
             "count": 0,
             "progression": true,
             "category": [
@@ -15683,6 +16347,14 @@
         },
         {
             "name": "Trick Or Treat",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Tricky Tetris Pieces",
             "count": 0,
             "progression": true,
             "category": [
@@ -15850,6 +16522,14 @@
             ]
         },
         {
+            "name": "Twodoku",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Two Knobs",
             "count": 0,
             "progression": true,
@@ -15899,6 +16579,14 @@
         },
         {
             "name": "Übermodule",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "UFO Satellites",
             "count": 0,
             "progression": true,
             "category": [
@@ -16226,6 +16914,14 @@
             ]
         },
         {
+            "name": "Varicolored Cube",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
             "name": "Varicolored Squares",
             "count": 0,
             "progression": true,
@@ -16347,6 +17043,14 @@
         },
         {
             "name": "Visual Impairment",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Void Traversal",
             "count": 0,
             "progression": true,
             "category": [
@@ -16667,6 +17371,54 @@
         },
         {
             "name": "Wild Side",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Wind The Key",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Wind-Up Grommets",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Wind-Up Maze",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Wind-Up Music Box",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Wind-Up Safe",
+            "count": 0,
+            "progression": true,
+            "category": [
+                "Module"
+            ]
+        },
+        {
+            "name": "Wind-Up Simon",
             "count": 0,
             "progression": true,
             "category": [
@@ -17091,14 +17843,6 @@
         },
         {
             "name": "Yes and No",
-            "count": 0,
-            "progression": true,
-            "category": [
-                "Module"
-            ]
-        },
-        {
-            "name": "Yet Another Keypad",
             "count": 0,
             "progression": true,
             "category": [

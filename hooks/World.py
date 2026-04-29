@@ -34,8 +34,8 @@ actual_item_pool = {}
 _seed = {}
 
 EXTREMES = [
-    "Footover", "BadTV", "Reporting Anomalies", "XY-Ray", "Cruel Synesthesia", "Identifrac", "The Octadecayotton", "UltraStores", "The Very Annoying Button",
-    "Bell of Tío", "Vigilant Psycho", "Spectre Maze", "RNG Crystal", "Decay", "Simon Swindles", "Mislocation", "Beanboozled Again", "OmegaForget", "Bamboozled Again"
+    "Footover", "BadTV", "Reporting Anomalies", "XY-Ray", "Cruel Synesthesia", "Identifrac", "The Octadecayotton", "UltraStores", "The Very Annoying Button", "Positive-Resistance"
+    "Bell of Tío", "Vigilant Psycho", "Spectre Maze", "RNG Crystal", "Decay", "Simon Swindles", "Mislocation", "Beanboozled Again", "OmegaForget", "Bamboozled Again", "Insomnious Automaton"
 ]
 
 # Use this function to change the valid filler items to be created to replace item links or starting items.
