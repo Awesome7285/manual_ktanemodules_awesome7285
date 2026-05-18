@@ -291,7 +291,7 @@
         },
         {
             "name": ":3 Solved",
-            "requires": "|:3|",
+            "requires": "|Colon 3|",
             "category": [
                 "Module"
             ],
